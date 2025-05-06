@@ -23,3 +23,9 @@ body{
 ::-webkit-scrollbar-thumb{
     background-color: #F44335;
 }
+.nav-item{
+    cursor: pointer;
+}
+.nav-item:hover{
+    color: #F44335;
+}
